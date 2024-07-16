@@ -1,0 +1,25 @@
+
+img{
+    width: 900px;
+    height: 500px;
+
+    color: black;
+
+} 
+body{  
+    background-color: #a39f9fc2;
+    text-align: center;
+
+}
+ul{
+    align-items: center;
+    text-align: center;
+    position: relative;
+    padding: 20px;
+}
+
+}
+li{
+    text-decoration: aqua;
+    text-align: center;
+}
